@@ -155,11 +155,6 @@ dependencies@^0.0.1:
     request "*"
     underscore "*"
 
-dom@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/dom/-/dom-0.0.3.tgz#16e0c225a0553d8e4362cc4bcd78d8fde59af67b"
-  integrity sha1-FuDCJaBVPY5DYsxLzXjY/eWa9ns=
-
 ecc-jsbn@~0.1.1:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/ecc-jsbn/-/ecc-jsbn-0.1.2.tgz#3a83a904e54353287874c564b7549386849a98c9"
