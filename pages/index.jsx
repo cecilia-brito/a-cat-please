@@ -22,7 +22,7 @@ async function getImage(){
             <Box styleSheet={{display: 'flex', alignItems: 'center', justifyContent: 'center',
 					backgroundImage: 'url(https://svgsilh.com/png-1024/1314467.png)',
 					backgroundRepeat: 'repeat', backgroundSize: "50px", backgroundPosition: "10px", backgroundOrigin: 'content-box', backgroundColor: "#F8F8EA"}}>
-                <Box className="box-img-cat" styleSheet={{backgroundColor: "#F8F8EA", borderRadius: "40px", maxWidth: "600px", maxHeight: "400px", width: "100%", height: "100%", display: 'grid', alignItems: 'center', justifyContent: 'center', padding: '40px', border: '8px solid black', gridTemplateRows: '80% 20%', gridTemplateColumns:'80%', gridGap: '20px'}}>
+                <Box className="box-img-cat" styleSheet={{backgroundColor: "#F8F8EA", borderRadius: "40px", maxWidth: "600px", maxHeight: "70vh", width: "100%", height: "100%", display: 'grid', alignItems: 'center', justifyContent: 'center', padding: '25px', border: '8px solid black', gridTemplateRows: '80% 20%', gridTemplateColumns:'80%', gridGap: '20px'}}>
                     <Box styleSheet={{width: '100%', height: '100%'}}>
                         <Image styleSheet={{width: '100%', height: '100%',borderRadius: '40px', border: '4px solid rgba(0,0,0, 0.8)'}} src={imageApi}/>
                     </Box>
