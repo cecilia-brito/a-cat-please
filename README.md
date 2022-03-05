@@ -32,7 +32,6 @@ $ cd a-cat-please
 # Instale as dependências
 $ yarn add next react react-dom
 $ yarn add @skynexui/components
-$ yarn add axios
 
 #Rode o projeto localmente
 $ yarn dev
